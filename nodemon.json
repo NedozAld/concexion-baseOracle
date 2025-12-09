@@ -1,0 +1,19 @@
+{
+  "watch": [
+    "index.js",
+    "routes",
+    "public",
+    "config",
+    "models"
+  ],
+  "ext": "js,html,css",
+  "ignore": [
+    "node_modules",
+    "logs",
+    "public/node_modules"
+  ],
+  "delay": "200",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

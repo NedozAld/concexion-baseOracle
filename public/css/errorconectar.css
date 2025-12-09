@@ -1,0 +1,32 @@
+.alert {
+    width: 60%;
+    background: #fffde7;
+    color: #f9a825;
+    border: 2px solid #f9a825;
+    border-radius: 8px;
+    padding: 24px;
+    font-size: 22px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.aboton {
+    background-color: #2196f3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    position: relative;
+    left: 40%;
+}
+
+.aboton:hover {
+    background-color: #0d47a1;
+}
+
+body {
+    background-color: rgb(152, 155, 173, 0.28);
+    color: #333;
+}
